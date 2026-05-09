@@ -1,4 +1,4 @@
-# EEZ_Studio_WaveShare_ESP32-S3-Touch-LCD-4.3B
+# EEZ_Studio_WaveShare_ESP32-S3-Touch-LCD-4.3B-BOX
 
 Professional EEZ Studio + LVGL + PlatformIO integration for the **WaveShare ESP32-S3 Touch LCD 4.3B** development board.
 
